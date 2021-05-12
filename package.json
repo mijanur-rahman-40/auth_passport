@@ -21,7 +21,7 @@
     "express-ejs-layouts": "^2.5.0",
     "express-session": "^1.17.0",
     "mongoose": "^5.7.13",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0"
   }
